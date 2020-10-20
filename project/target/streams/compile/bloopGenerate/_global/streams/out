@@ -1,0 +1,4 @@
+[debug] [akka-build] Classpath dependencies List()
+[debug] [akka-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'akka-build' to 'D:\VSProject\akka-demo\akka\project\.bloop\akka-build.json'
+[success] Generated .bloop\akka-build.json

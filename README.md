@@ -1,2 +1,2 @@
 # udemy-vscode-backend
- Demo scala project using VSCode
+Test run and compile code backend on VSCode IDE
